@@ -1,5 +1,7 @@
 # Checkin
 
+[![CI](https://github.com/jdguior06/entradasya-checkin/actions/workflows/ci.yml/badge.svg?branch=development)](https://github.com/jdguior06/entradasya-checkin/actions/workflows/ci.yml)
+
 Valida el código de una entrada con `tickets` y registra un único ingreso por entrada. El portero puede escanear con la cámara o ingresar el código manualmente desde `/portero`. Porteros y organizadores pueden consultar el total y los ingresos recientes del evento.
 
 ## Requisitos
